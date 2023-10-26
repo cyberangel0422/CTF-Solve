@@ -1,0 +1,2 @@
+flag{owowowowowowo}
+picoCTF{702d6d8ea75c4c92fe509690a593fee2}
