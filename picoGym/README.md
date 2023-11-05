@@ -6,9 +6,9 @@
 ## Unsubscriptions Are Free
 - Dangling pointer
     - 從這裡可以找到
-![image](https://raw.githubusercontent.com/wh00am1/ctf-solve/main/picoGym/IMGs/1.png)
+    - ![image](https://raw.githubusercontent.com/wh00am1/ctf-solve/main/picoGym/IMGs/1.png)
     - 驗證
-![image](https://raw.githubusercontent.com/wh00am1/ctf-solve/main/picoGym/IMGs/3.png)
+    - ![image](https://raw.githubusercontent.com/wh00am1/ctf-solve/main/picoGym/IMGs/3.png)
 - 更改 function pointer
     - 實際message大小為`0x20`, 因此可以覆寫已經`free()`掉的`whatToDo`
-![image](https://raw.githubusercontent.com/wh00am1/ctf-solve/main/picoGym/IMGs/2.png)
+    - ![image](https://raw.githubusercontent.com/wh00am1/ctf-solve/main/picoGym/IMGs/2.png)
