@@ -1,9 +1,5 @@
 # HARUUL ZANGI CTF 2024
 
-## Standings
-
-![img](./imgs/team.png)
-
 ## Matrix : Code Canary
 
 - Checksec
@@ -30,7 +26,7 @@
 
 ![img](./imgs/2-1.png)
 
-沒有開啟 canary 以及有很明顯的 stack overflow, 不過只能用 read 來打印地址
+沒有開啟 canary 以及有很明顯的 stack overflow, 不過只能用 write 來打印地址
 
 ![img](./imgs/2-2.png)
 
