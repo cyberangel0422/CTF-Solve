@@ -41,6 +41,8 @@ Then we can step in the `validate()`, but it seems like a packed payload, since 
 
 I used the string `KEY_AAAABBBBCCCC`, and got the flag after stepping into `validate()`.
 
+![a](./imgs/4-3.png)
+
 ### Secure keygen (unsolved)
 The program holds a account pool with a menu, but it keeps crashing. Maybe patches are needed.
 
